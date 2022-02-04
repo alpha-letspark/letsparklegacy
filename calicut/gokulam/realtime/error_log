@@ -1,0 +1,1 @@
+[19-Sep-2019 07:36:28 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/campusville/public_html/realtime/data.php on line 2
